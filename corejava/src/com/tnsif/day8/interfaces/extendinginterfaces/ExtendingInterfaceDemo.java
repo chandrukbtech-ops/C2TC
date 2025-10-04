@@ -1,4 +1,4 @@
-package con.tnsif.day8.interfaces.extendinginterfaces;
+package com.tnsif.day8.interfaces.extendinginterfaces;
 
 public class ExtendingInterfaceDemo {
 	public void print() { 

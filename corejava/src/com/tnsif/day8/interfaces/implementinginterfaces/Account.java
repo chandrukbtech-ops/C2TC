@@ -1,4 +1,4 @@
-package con.tnsif.day8.interfaces.implementinginterfaces;
+package com.tnsif.day8.interfaces.implementinginterfaces;
 
 //Account class
 public class Account {

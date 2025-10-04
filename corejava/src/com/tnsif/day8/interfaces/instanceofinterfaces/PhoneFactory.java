@@ -1,4 +1,4 @@
-package con.tnsif.day8.interfaces.instanceofinterfaces;
+package com.tnsif.day8.interfaces.instanceofinterfaces;
 
 public class PhoneFactory {
 	public static Phone createPhone(String company) {

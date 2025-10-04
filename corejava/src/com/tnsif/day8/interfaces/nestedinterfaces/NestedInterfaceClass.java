@@ -1,4 +1,4 @@
-package con.tnsif.day8.interfaces.nestedinterfaces;
+package com.tnsif.day8.interfaces.nestedinterfaces;
 
 public class NestedInterfaceClass implements MyInterface.MyInnerInterface{
 

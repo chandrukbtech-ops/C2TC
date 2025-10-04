@@ -1,4 +1,4 @@
-package con.tnsif.day8.interfaces.implementinginterfaces;
+package com.tnsif.day8.interfaces.implementinginterfaces;
 
 public class BankApplication {
 	 public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package con.tnsif.day8.interfaces.markerinterfaces;
+package com.tnsif.day8.interfaces.markerinterfaces;
 
 public class Student implements Registrable {
 	private int id;

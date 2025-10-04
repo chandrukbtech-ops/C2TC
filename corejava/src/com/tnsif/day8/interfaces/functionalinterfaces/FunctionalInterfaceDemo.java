@@ -1,4 +1,4 @@
-package con.tnsif.day8.interfaces.functionalinterfaces;
+package com.tnsif.day8.interfaces.functionalinterfaces;
 
 @FunctionalInterface
 interface GreetInterface {

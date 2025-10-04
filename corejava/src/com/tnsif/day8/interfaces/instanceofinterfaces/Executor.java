@@ -1,4 +1,4 @@
-package con.tnsif.day8.interfaces.instanceofinterfaces;
+package com.tnsif.day8.interfaces.instanceofinterfaces;
 
 public class Executor {
 	public static void main(String args[]) {
